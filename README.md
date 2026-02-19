@@ -48,7 +48,7 @@ Repositori ini sering digunakan untuk mendistribusikan modul praktikum kepada ma
 ## 📫 Kontak & Tautan
 * **Kampus:** [STMIK IKMI Cirebon](https://ikmi.ac.id)
 * **Profil Riset:** [Google Scholar / SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6042868)
-* **LinkedIn:** [Link LinkedIn Anda]
+* **LinkedIn:** [INSTAGRAM](https://www.instagram.com/rud3m/)
 
 ---
 *Dikelola secara mandiri oleh Rudi Kurniawan. © 2026*

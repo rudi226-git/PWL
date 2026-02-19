@@ -1,5 +1,5 @@
 # 👨‍🏫 Rudi Kurniawan, S.Kom., M.T. (@Rud3m)
-**Akademiki | Dsoen Tetap | Lektor | Wakil Ketua Bidang Akademik @ STMIK IKMI Cirebon**
+**Akademiki | Dosen Tetap | Lektor | Wakil Ketua Bidang Akademik @ STMIK IKMI Cirebon**
 
 Selamat datang di repositori resmi saya. Ruang ini didedikasikan untuk pengembangan materi perkuliahan, riset teknologi media digital, dan eksplorasi pemrograman modern menggunakan Framework Laravel.
 

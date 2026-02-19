@@ -1,18 +1,45 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# --- Laravel Standard ---
+/node_modules
+/public/build
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.php_cs.cache
+.phpunit.result.cache
+docker-compose.override.yml
+proxy.crt
+proxy.key
 
-# Other files and folders
-.settings/
+# --- PHP & Package Manager ---
+composer.lock
+auth.json
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# --- Testing & Logs ---
+.phpunit.cache
+/storage/logs/*
+!/storage/logs/.gitignore
+/storage/framework/cache/data/*
+!/storage/framework/cache/data/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# --- IDE & OS Specific ---
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env.local
+
+# --- Personal Notes/Drafts ---
+# Mengabaikan file catatan pribadi atau draf modul yang belum final
+temp/
+draft_materi/
